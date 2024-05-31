@@ -6,3 +6,4 @@ console.log4
 console.log5
 console.log6
 console.log7
+console.log8
