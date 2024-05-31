@@ -1,3 +1,10 @@
 console.log
 console.log1
 console.log2
+console.log3
+console.log4
+console.log5
+console.log6
+console.log7
+console.log8
+console.log9
